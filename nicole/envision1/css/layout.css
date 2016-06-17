@@ -1,0 +1,170 @@
+header li{
+  display: inline;
+}
+.menu li{
+  padding-left: 10px;
+}
+header ul{
+  float: right;
+}
+header p{
+  position: relative;
+  top: -15px;
+  padding-left: 10px;
+}
+header h1, header p, body{
+  margin: 0;
+}
+.header, .menu{
+  padding: 0 -5px;
+}
+.title{
+  float: left;
+}
+header h1{
+  padding-top: 20px;
+}
+aside{
+  padding: 20px 10px 10px 10px;
+  float: right;
+}
+.menu ul{
+  margin: 5px;
+}
+.menu{
+  margin-bottom: 30px;
+}
+.borda{
+  border-top: 1px rgb(21,106,171) solid;
+  border-bottom: 1px solid rgb(79,162,228);
+  margin: 0 -5px;
+  padding: 0 5px;
+}
+.container{
+  border-radius: 20px;
+  padding: 0 5px 5px 5px;
+  width: 820px;
+  margin: 0 auto;
+  display: table;
+}
+dd{
+  padding: 5px;
+  margin: 0;
+}
+aside{
+  float: right;
+}
+header, .header{
+  display: table;
+  width: 100%;
+}
+input{
+  border:none;
+}
+main{
+  float: left;
+}
+main, aside{
+  margin-left: 0 -15px;
+}
+aside{
+  width: 212px;
+}
+.container main{
+  width: 588px;
+}
+article p, article .pe, article h4, article .fundo-diferencial, article ol, #segunda-lista, table, form{
+  padding: 0 35px;
+}
+article p, article .pe, article h4, article .fundo-diferencial, table, form{
+  margin: 20px 15px;
+}
+footer{
+  padding: 15px 0;
+}
+article ol, #segunda-lista{
+  margin: 10px 15px;
+}
+aside p{
+  padding: 10px;
+  margin: 0;
+}
+label{
+  display: table;
+}
+article ul{
+  margin: 0;
+}
+article ul li{
+  text-align: right;
+  display: inline;
+  padding-left: 10px;
+}
+.pe{
+  display: table;
+}
+article h1{
+  margin: 20px 25px ;
+  padding-left: 30px;
+}
+.fundo-diferencial{
+  text-align: left;
+}
+#segunda-lista li{
+  text-align: left;
+  display: list-item;
+  padding-left: 0;
+}
+blockquote{
+  padding: 0 35px;
+  margin: 0;
+}
+.principal{
+  margin-top: 5px;
+}
+article p img{
+  float: left;
+  padding: 5px;
+  margin: 0 10px 10px 0;
+}
+td, th{
+  padding: 5px 10px;
+  text-align: justify;
+}
+aside input[type="submit"]{
+  float: right;
+}
+aside input[type="text"]{
+  width: 65%;
+}
+.principal{
+  display: table;
+}
+.principal aside{
+  height: 100%;
+}
+label,  input{
+  padding: 5px;
+}
+.wise-words p:last-child{
+  text-align: right;
+}
+footer li{
+  display: inline;
+}
+footer{
+  text-align: center;
+}
+footer p{
+  float: left;
+}
+footer ul,footer li, footer p{
+  margin: 0;
+}
+footer ul{
+  display: table;
+}
+.centro{
+  margin: 0 auto;
+  width: 75%;
+}

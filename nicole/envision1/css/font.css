@@ -1,0 +1,76 @@
+body{
+  font-family: Verdana;
+}
+header, header a{
+  color: white;
+}
+header p, .header li, footer p, footer li{
+  font-size: 11px;
+}
+.menu li{
+  font-size: 15px;
+  font-weight: bolder;
+}
+#first-li a{
+  color: #D4E59F;
+}
+aside dd a{
+}
+aside h3{
+  color: #728D26;
+}
+article p,aside dd, article li a, article li, article span, blockquote, td, th, label, aside p{
+  font-size: 11px;
+}
+aside h3{
+  font-size: 14px;
+}
+.fundo-diferencial{
+  width: 470px;
+}
+.fundo-diferencial ul{
+  float: right;
+}
+main h1{
+  font-size: 14px;
+  color: #88AC0B;
+  font-weight: bold;
+  border-bottom: solid 1px #EFF0F1;
+}
+article a, aside a{
+  color: #2180BC;
+}
+article p,aside dd a, article li, article h4, article span, blockquote, td, label, aside p{
+  color: #666;
+}
+.sponsor dd a{
+  color: #666666;
+  font-weight: bolder;
+}
+label{
+  font-weight: bolder;
+}
+th{
+  color: white;
+}
+article h4, footer ul{
+  font-size: 11px;
+}
+header h1{
+  font-family: Trebuchet MS;
+  font-size: 54px;
+  font-weight: bold;
+}
+input[type="submit"]{
+  color: white;
+  background-color: #8EB50C ;
+}
+.image-text{
+  display: table;
+}
+th, td, tr{
+  border-collapse: collapse;
+}
+footer p,footer a{
+  color: white;
+}
