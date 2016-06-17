@@ -1,0 +1,215 @@
+#ul1{
+	float: right;
+	margin-top: -85px;
+	margin-right: 5px;
+}
+#ul1 li{
+	//border: solid 1px;
+	//border-bottom: none;
+	//border-top: none;
+	padding: 5px;
+}
+header li{
+	display: inline;
+}
+header{
+	color: white;
+	//border: solid 1px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	margin: -20px 0px 0px 0px;
+	height: 140px;
+	margin-top: -30px;
+}
+header p{
+	margin-top: -30px;
+}
+#ul2{
+	float: right;
+	margin-top: 20px;
+}
+#ul2 li{
+	padding: 15px;
+	width: 700px;
+}
+header hr{
+	margin-top: 20px;
+}
+#logo{
+	margin-left: 20px;
+}
+article{
+	//border: solid 1px;
+	margin-right: 300px;
+	height: 180px;
+}
+article ul{
+	float: right;
+}
+article li{
+	padding: 10px;
+	display: inline;
+}
+article h3{
+	color: green;
+	margin-left: 15px;
+	margin-top: 10px;
+	padding: 5px;
+}
+#logo1 img{
+	float: left;
+	padding: 5px;
+	margin-top: 2px;
+}
+
+article p{
+	padding: 7px;
+}
+#tags h3{
+	color: green;
+	margin-top: -28px;
+	margin-left: 30px;
+}
+#tags img{
+	padding: 5px;
+}
+#tags{
+	margin-left: 20px;
+}
+#logo2{
+	margin-left: -20px;
+}
+#lista1{
+	//border: solid 1px;
+	margin-right: 210px;
+}
+#lista1 li{
+	list-style: none;
+}
+#lista1 ul{
+	margin-left: -15px;
+}
+#aspas img{
+	float: left;
+	margin-top: -15px;
+}
+#aspas{
+	//border: solid 1px;
+	margin-right: 300px;
+	margin-left: 30px;
+	height: 50px;
+}
+#firefox img{
+	float: left;
+	margin-right: 10px;
+}
+#firefox{
+	margin-right: 300px;
+}
+#firefox {
+	margin-left: 15px;
+}
+#aspajunta{
+	margin-left: 20px;
+}
+#tableform{
+	margin-left: 15px;
+	margin-right: 300px;
+}
+#tableform p{
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+#formulario{
+	//border: solid 1px;
+	margin-right: -20px;
+}
+aside{
+	float: right;
+	//border: solid 1px;
+	width: 290px;
+	margin-top: -1300px;
+	height: 1300px;
+	margin-bottom: 0px;
+}
+aside button{
+	float: right;
+	margin-top: -44px;
+	margin-right: 20px;
+	height: 25px;
+	width: 70px;
+}
+aside h3{
+	margin-left: 10px;
+}
+aside input{
+	height: 18px;
+	margin-left: 2px;
+}
+aside li{
+	padding: 2px;
+	list-style: none;
+	border: solid 1px;
+	border-style: dotted ;
+	border-left: none;
+	border-right: none;
+	margin-bottom: 0px;
+}
+aside ul{
+	margin-left: -20px;
+}
+#autor{
+	float:right;
+}
+aside p{
+	margin-right: 6px;
+	margin-left: 15px;
+}
+footer li{
+	display: inline;
+	padding: 5px;
+	border: solid 1px;
+	border-bottom: none;
+	border-left:none;
+	border-top: none;
+}
+footer ul{
+	margin-left: 70px;
+}
+#lista2{
+	margin-left: 600px;
+	margin-top: -35px;
+}
+footer{
+	border: solid 1px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	color: white;
+	margin-left:-2px;
+	margin-right:-2px;
+	margin-top: -5px;
+	height: 70px;
+}
+main{
+	border: solid 5px;
+	border-color: rgb(38, 143, 201);
+}
+#tudo{
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: -20px;
+}
+header h1{
+	font-size: 55px;
+}
+#logo23{
+	margin-top: -50px;
+	margin-left: 20px;
+}
+table{
+	border-color: white;	
+}
+#listaverde ul{
+	list-style-image: url('images/bullet.gif');
+	
+}

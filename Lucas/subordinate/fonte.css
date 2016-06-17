@@ -1,0 +1,42 @@
+header{
+	color: white;
+}
+#logo p{
+	font-size: 13px;
+	font-style: italic;
+}
+#logo h3{
+	color: white;
+}
+#search2{
+	font-size: 11px;
+}
+#lista link{
+	color: green;
+}
+footer{
+	text-align: center;
+}
+article h2{
+	line-height: 1.2;
+	font-family: "Colibri";
+}
+article p{
+	line-height: 1.2;
+	font-family: "Berlin Sans Fb";	
+}
+footer{
+	font-family: "Arial";
+}
+#autoria{
+	font-size: 13px;
+}
+aside a{
+	font-size: 13px;
+}
+article p{
+	//font-size: 15px;
+}
+article a{
+	font-size: 12px; 
+}
