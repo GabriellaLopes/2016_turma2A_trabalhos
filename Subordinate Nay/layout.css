@@ -1,0 +1,189 @@
+body{
+  margin: 0;
+}
+header nav ul li{
+  list-style: none;
+  display: inline;
+  padding: 10px;
+}
+header a{
+	text-decoration: none;
+}
+header{
+	 height: 52px;
+  margin-bottom: 60px;
+  position: relative;
+ } 
+header nav ul{
+  float: right;
+  display: table;
+  margin-left: 250px;
+}
+/*article img,article h1{
+  float: right;
+}*/
+aside img{
+  position:relative;
+  top: -5px;
+}
+.titulo{
+	width:280px;
+    position: absolute;
+    top: 50px;
+	padding-left:80px;
+	box-sizing: border-box;
+}
+.titulo h1{
+  margin:0;
+}
+.titulo p{
+  margin-top: 2px;
+}
+article p:last-of-type{
+  margin-bottom: 20px;
+}
+/*article img{
+  margin-top: 150px;
+  margin-right: 200px;
+}*/
+.container{
+	width:1000px;
+	margin: 0 auto;
+}	
+.container article{
+  float: right;
+  width: 68%;
+  margin-bottom: 30px;
+  
+}
+aside{
+  float: left;
+}
+header span{
+	padding-right: 10px;
+}
+article{
+    padding-bottom: 20px;
+  }
+article img{
+  float: left;
+  margin-right: 10px;
+}
+article p{
+  line-height: 30px;
+}
+article:last-of-type{
+  margin-bottom: 50px;
+}
+.comentarios{
+	width:690px;
+	height:20px;
+	margin-bottom:20px;
+	display: inline;
+}
+.comentarios ul{
+  margin: 0;
+  padding: 0;
+  
+}
+.comentarios li{
+	display: inline;
+	
+}
+.comentarios li.read-article {
+	padding-left:15px;
+}
+footer{
+  width: 100%;
+  margin-top: 20px;
+  padding: 18px;
+  margin-bottom:0;
+}
+aside ul li{
+  list-style: none;
+}
+.pesquisa{
+  display: table;
+ 
+  height: 70px;
+}
+.pesquisa label{
+ 
+  display: inline-table;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.menu{
+  display: table;
+  background-image: url("img03.jpg");
+  height: 70px;
+  background-repeat:repeat-x;
+  background-position: bottom;
+}
+.menu h1{
+  border-image: url("img04(3).jpg");
+  display: inline-table;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.volupat{
+  display: table;
+  background-image: url("img03.jpg");
+  height: 70px;
+  
+}
+article h1{
+  
+  display: inline-table;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.comentarios li{
+  padding-left: 20px;
+  float: left;
+}
+.comentarios ul{
+  float: right;
+  display: table;
+
+}
+.comentario a{
+  float:right;
+}
+.a1{
+	padding-top: 100px;
+}
+article a{
+	padding-right: 10px;
+}
+.volupat h1, .menu h1, .pesquisa h1, .titulo-article{
+	padding: 5.5px;
+	
+}
+.pesquisa{
+	padding-bottom: 20px;
+	
+}
+.read-article{
+	margin-left: 106px;
+	
+}
+.comments{
+	padding-left: 20px;
+	background: url("img08.gif") left no-repeat;
+}
+.pesquisa, article{
+	margin-top:-50px;
+}
+.menu, .volupat{
+	padding-bottom: 20px;
+}
+.menu-lateral{
+	margin-top: 50px;
+}	
+.a1 p:nth-child(2){
+	margin-bottom: 20px;
+}
+.a1{
+	padding-top:50px;
+}	

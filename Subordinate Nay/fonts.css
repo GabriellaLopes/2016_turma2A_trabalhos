@@ -1,0 +1,36 @@
+article p{
+  font-family:"Trebuchet MS", serif;
+  font-size: 15px;
+}
+a{
+  color: rgb(136,205,90);
+}
+header a{
+	color: white;
+}
+article h1{
+	color: rgb(128,126,132);
+}
+aside h1{
+	color: rgb(128,126,132);
+}
+header span{
+	font-size: 25px;
+	color: rgb(198,245,125);
+	font-weight: bold;
+}
+header li{
+	font-size:18px;
+	font-weight: bold;
+}
+.titulo h1{
+	color: white;
+}
+.titulo p{
+	color: rgb(119, 188,72);
+	font-style: italic;
+	font-weight: bold;
+}
+footer, footer a{
+	color: white;
+}

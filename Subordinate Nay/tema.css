@@ -1,0 +1,48 @@
+header{
+  background-image: url("img01.gif");
+  background-repeat: repeat;
+ 
+}
+.titulo{
+	background-image:url("img02.gif");
+}
+article{
+	background: url("img03.jpg") bottom repeat-x;
+}
+footer{
+	background-image: url("img05.gif");
+  background-repeat: repeat;
+  clear: both;
+ }
+.pesquisa{
+    background-image: url("img03.jpg");
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+.pesquisa label{
+    background-image: url("img04 (3).jpg");
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+.menu{
+     background-repeat:repeat-x;
+  background-position: bottom;
+}
+.volupat{
+	background-repeat:repeat-x;
+  background-position: bottom;
+ }
+article h1{
+	border-image: url("img04(3).jpg");
+  background-repeat:repeat-x;
+  background-position: bottom;
+ }
+.volupat h1, .menu h1, .pesquisa h1, .titulo-article{
+	background: url("img04 (3).jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+.read-article{
+		background: url("img09.gif") left no-repeat;
+}		
