@@ -1,0 +1,257 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url(images/img01.gif) repeat-x left top;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	text-transform: lowercase;
+	font-weight: normal;
+	color: #7D7D7D;
+}
+
+h1 {
+	letter-spacing: -1px;
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 23px;
+}
+
+p, ul, ol {
+	margin: 0 0 2em 0;
+	text-align: justify;
+	line-height: 26px;
+	font-size: 11px;
+}
+
+a{
+	color: #6DBD0B;
+}
+
+img.left {
+	float: left;
+	margin-right: 15px;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+legend {
+	display: none;
+}
+
+input, textarea, select {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+
+.header {
+	width: 860px;
+	height: 50px;
+	margin: 0 auto;
+}
+
+nav {
+	width: 860px;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul {
+	float: right;
+	display: block;
+	margin: 0;
+	padding: 0px 0 0 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	margin-right: 4px;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	font: 17px sans-serif;
+	color: #FFFFFF;
+}
+
+nav .numero {
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.logo {
+	width: 860px;
+	height: 80px;
+	margin: 0 auto;
+	background: url(images/img02.gif)
+	no-repeat left top;
+}
+
+.logo h1, .logo h2 {
+	margin: 0;
+	padding: 0 0 0 75px;
+	line-height: normal;
+}
+
+.logo h1 { }
+
+.logo h1 a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.logo h2 {
+	padding:
+	float: left;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+	color: #66B209;
+}
+
+.logo p a {
+	text-decoration: none;
+}
+
+main {
+	width: 850px;
+	margin: 0 auto;
+}
+
+.principal {
+	float: right;
+	width: 600px;
+}
+
+section {
+	padding: 15px 15px;
+}
+
+section h1 {
+	margin-bottom: 20px;
+	border-bottom: 1px dotted #D1D1D1;
+	background: url(images/img04.jpg) repeat-x left bottom;
+}
+
+section h2 {
+	margin-bottom: 20px;
+	border-bottom: 1px dotted #D1D1D1;
+	background: url(images/img04.jpg) repeat-x left bottom;
+}
+
+section .meta {
+	height: 70px;
+	padding: 40px 15px 0px 15px;
+	background: url(images/img03.jpg) repeat-x left top;
+}
+
+section .meta div {
+	margin: 0;
+	line-height: normal;
+	color: #999999;
+}
+
+
+section .meta .more {
+	padding: 0 20px;
+	
+}
+
+section .meta .comments {
+
+}
+
+section .meta b {
+	display: none;
+}
+
+aside {
+	float: left;
+	width: 215px;
+}
+
+aside ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+aside li {
+	margin-bottom: 40px;
+}
+
+aside li ul {
+	background: url(images/img03.jpg) repeat-x left bottom;
+	padding-bottom: 20px;
+}
+
+aside li li {
+	margin: 0;
+	padding-left: 12px;
+}
+
+aside h2 {
+	padding-top: 20px;
+	margin-bottom: 10px;
+	background: url(images/img04.jpg) repeat-x left bottom;
+	border-bottom: 1px dotted #D1D1D1;
+	font-size: 18px;
+}
+
+.pesquisar {
+	background: url(images/img03.jpg) repeat-x left bottom;
+	margin-bottom: 20px;
+}
+
+.pesquisar h2 {
+	margin-bottom: 20px;
+}
+
+.texto {
+	width: 115px;
+	margin-right: 5px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+.botao {
+	margin-bottom: 20px;
+	padding: 3px 3px 3px 3px;
+	font-size: 11px;
+	color: #4F4F4F;
+}
+
+#footer-wrap {
+	width: 860px;
+	height: 52px;
+	margin: 0 auto;
+}
+
+footer {
+	margin: 0 auto;
+	height: 52px;
+	min-height: 52px;
+	background: #A0A0A3 url(images/img05.gif) repeat-x left bottom;
+}
+
+footer p {
+	text-align: center;
+	color: #FFFFFF;
+}
