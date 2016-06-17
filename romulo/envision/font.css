@@ -1,0 +1,58 @@
+.tudo{
+	font-family: Trebuchet MS;
+}
+.titulo{
+	font-size: 16px;
+}
+header h1{
+color: white;
+font-size:50px;
+}
+header p, .menu-1{
+color: white;
+}
+a{
+text-decoration:none;
+}
+.menu-1 a{
+color: white;
+}
+.menu-2 a{
+color: white;
+}
+.averde a{
+	color: green;
+}
+.primeiro a, .ultimo a{
+color: green;
+}
+aside ul, .sectionbugada{
+list-style-type:none;
+}
+.lado-esquerdo a{
+color: rgb(39,144,202);
+}
+aside a{
+color: gray;
+}
+.aespecial a{
+color:black;
+}
+.aespecial li{
+color: green;
+}
+aside .titulo, .titulo2{
+color: green;
+}
+.coisafooter, .coisafooter a{
+	color: white;
+}
+.titulo{
+	color: green;
+}
+.endireitador2 li{
+	list-style-type:none;
+}
+.menu-2 a{
+	font-size:18px;
+}
