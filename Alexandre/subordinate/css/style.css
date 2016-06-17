@@ -1,0 +1,194 @@
+body, header ol, .title h1, .title p {
+    margin: 0;
+}
+body, .menu p {
+    font-family: Arial;
+    color: rgb(126, 133, 156);
+}
+header {
+    background-image: url("../images/img01.gif");
+    background-repeat: repeat;
+    height: 52px;
+}
+header ol {
+    float: right;
+    margin: 0;
+    padding-top: 10px;
+}
+header ol li {
+    display: inline;
+    padding-left: 30px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+header li span {
+    color: rgb(200, 245, 117);
+    font-size: 30px;
+}
+header a {
+    text-decoration: none;
+    color: white;
+}
+.title h1, .title p {
+    float: right;
+    position: relative;
+    right: 30px;
+}
+.title {
+    background-image: url("../images/img02.gif");
+    position: relative;
+    top: -5px;
+    width: 280px;
+    height: 73px;
+}
+.title h1 {
+    font-size: 30px;
+    color: white;
+    text-transform: lowercase;
+}
+.container {
+    display: table;
+    width: 900px;
+    margin: 0 auto;
+}
+label {
+    border-top: url("../images/img04.jpg");
+    border: 10px transparent;
+    border-image: url("../images/img04.jpg");
+    background-repeat: repeat-x;
+    width: 212px;
+}
+h1, label {
+    font-weight: bold;
+}
+.title p {
+    color: rgb(148, 187, 89);
+    font-size: 13px;
+    font-style: italic;
+}
+.lista li, article li {
+    list-style: none;
+    text-transform: lowercase;
+    color: rgb(136, 205, 90);
+}
+.lista a {
+}
+.busca, .menu {
+    background-image: url("../images/img03.jpg");
+    background-repeat: repeat;
+    height: 70px;
+}
+.busca {
+    margin-top: 15px;
+}
+input {
+    margin: 0 auto;
+}
+input[type="submit"] {
+    border: none;
+}
+input[type="text"] {
+    margin-top: 20px;
+    width: 100px;
+}
+a {
+
+}
+.container article {
+    width: 68%;
+}
+article {
+    float: right;
+}
+article:first-of-type {
+    margin-top: 88px;
+}
+article p, article a {
+    font-size: 11px;
+}
+article .principal-img {
+    border: 1px dashed #86E714;
+}
+article p {
+    line-height: 26px;
+    color: #333;
+}
+aside {
+    float: left;
+}
+footer {
+    background-image: url("../images/img05.gif");
+    height: 52px;
+    text-align: center;
+    position: relative;
+    bottom: -52px;
+    clear: both;
+}
+footer h5 {
+    color: white;
+}
+footer h5 a {
+    color: white;
+}
+fieldset {
+    margin: 0 auto;
+    border: none;
+    padding: 0;
+    text-align: center;
+}
+article .principal-img {
+    float: left;
+    margin: 0 10px 10px 0px;
+    padding: 2px;
+}
+article ul, article p {
+    margin: 0;
+}
+.lista ul {
+    padding: 0 10px;
+}
+.menu {
+    display: table;
+    width: 100%;
+}
+.menu p, .menu li {
+    padding-top: 40px;
+}
+.menu p {
+    float: left;
+}
+.menu li {
+    display: inline-block;
+    padding-left: 20px;
+
+}
+.menu ul {
+    float: right;
+}
+article {
+    margin-bottom: 50px;
+}
+footer h5 {
+    position: relative;
+    top: 40%;
+    margin: 0;
+}
+.busca label {
+    width: 100%;
+    display: inline-table;
+}
+.lista {
+    background-image: url("../images/img03.jpg");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    margin: 40px 0;
+}
+.lista ul {
+    padding-bottom: 40px;
+}
+label, article h1, .lista h1 {
+    background-image: url("../images/img04.jpg");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    ;
+}

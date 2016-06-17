@@ -1,0 +1,337 @@
+body {
+    background: #CCC;
+    font: 13px arial, sans-serif;
+    color: #555;
+    text-align: center;
+}
+h1, h2, h3 {
+    font-family: Sans-serif;
+}
+h1 {
+    font-size: 150%;
+    font-weight: normal;
+    color: #006699;
+}
+h2 {
+    font-size: 140%;
+    text-transform: uppercase;
+    color: #88ac0b;
+}
+h3 {
+    font-size: 120%;
+    color: #666666;
+}
+img {
+    background: #FAFAFA;
+    border: 1px solid #E5E5E5;
+    padding: 8px;
+}
+}
+img.float-right {
+    margin: 5px 0px 10px 10px;
+}
+img.float-left {
+    margin: 5px 10px 10px 0px;
+}
+h1, h2, h3, p {
+    padding: 10px;
+    margin: 0;
+}
+ul, ol {
+    margin: 5px 20px;
+    padding: 0 20px;
+}
+code {
+    margin: 5px 0;
+    padding: 10px;
+    text-align: left;
+    display: block;
+    overflow: auto;
+    font-family: monospace;
+    background: #FAFAFA;
+    border: 1px solid #f2f2f2;
+}
+blockquote {
+    margin: 10px;
+    padding: 0 0 0 28px;
+    border: 1px solid #f2f2f2;
+    background: #FAFAFA url(../images/quote.gif) no-repeat 5px 5px;
+}
+table {
+    border-collapse: collapse;
+    margin: 10px;
+}
+th strong {
+    color: #fff;
+}
+th {
+    background: #93BC0C;
+    height: 29px;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: #FFF;
+    text-align: left;
+    border-left: 1px solid #B6D59A;
+    border-bottom: solid 2px #FFF;
+}
+tr {
+    height: 30px;
+}
+td {
+    padding-left: 11px;
+    padding-right: 11px;
+    border-left: 1px solid #FFF;
+    border-bottom: solid 1px #ffffff;
+}
+td.first, th.first {
+    border-left: 0px;
+}
+td.first {
+    color: #555;
+}
+td {
+    color: #2b93cd;
+}
+tr:nth-child(2n) {
+    background: #F8F8F8;
+}
+tr:nth-child(2n+1) {
+    background: #EFEFEF;
+}
+form {
+    margin: 10px;
+    padding: 0 5px;
+    border: 1px solid #f2f2f2;
+    background-color: #FAFAFA;
+}
+label {
+    display: block;
+    font-weight: bold;
+    margin: 5px 0;
+}
+input {
+    padding: 2px;
+    border: 1px solid #eee;
+    font: normal 13px sans-serif;
+    color: #777;
+}
+textarea {
+    width: 400px;
+    padding: 2px;
+    font: normal sans-serif;
+    border: 1px solid #eee;
+    height: 100px;
+    display: block;
+    color: #777;
+}
+input.button {
+    font: bold 12px Arial, Sans-serif;
+    height: 24px;
+    margin: 0;
+    padding: 2px 3px;
+    color: #FFF;
+    background: #8EB50C url(../images/button-bg.jpg);
+    border: none;
+}
+.search {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 5px 0 15px 0;
+    width: 190px;
+}
+.search p {
+    margin: 0;
+    padding: 0;
+}
+.search input.textbox {
+    width: 120px;
+    color: #777;
+    height: 18px;
+    padding: 2px;
+    border: 1px solid #E5E5E5;
+    vertical-align: top;
+}
+.search input.button {
+    width: 60px;
+    height: 24px;
+    padding: 2px 5px;
+    vertical-align: top;
+}
+#wrap {
+    width: 820px;
+    background: #CCC url(../images/content.jpg) repeat-y center top;
+    margin: 0 auto;
+    text-align: left;
+}
+#content-wrap {
+    clear: both;
+    width: 760px;
+    padding: 0;
+    margin: 10px auto;
+}
+header {
+    width: 820px;
+    position: relative;
+    height: 103px;
+    background: #CCC url(../images/header.jpg) no-repeat center top;
+    padding: 0;
+    color: #FFF;
+}
+header h1 {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font: bolder 44px Arial, Sans-serif;
+    letter-spacing: -2px;
+    color: #FFF;
+    text-transform: none;
+    text-decoration: none;
+    background: transparent;
+    top: 25px;
+    left: 47px;
+}
+header p#slogan {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font: normal 12px Arial, Sans-serif;
+    text-transform: none;
+    color: #FFF;
+    top: 70px;
+    left: 55px;
+}
+header #links {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #FFF;
+    font-size: 10px;
+}
+nav {
+    clear: both;
+    margin: 0 auto;
+    padding: 0;
+    background: url(../images/menu.jpg) repeat-x 0 0;
+    font: bold 12px/37px Arial, Sans-serif;
+    height: 37px;
+    width: 780px;
+}
+nav ul {
+    float: right;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    display: block;
+    float: left;
+    padding: 0 12px;
+    color: #fff;
+    text-decoration: none;
+}
+nav ul li:last-child {
+    padding-right: 20px;
+}
+main {
+    float: left;
+    width: 70%;
+    padding: 0;
+    margin: 5px 0 0 5px;
+    display: inline;
+}
+main h2 {
+    margin-top: 10px;
+    font: Bold 140% Sans-serif;
+    color: #8EB50C;
+    padding: 5px 0 5px 25px;
+    border-bottom: 1px solid #EFF0F1;
+    background: #FFF url(../images/square-green.png) no-repeat 3px 50%;
+    text-transform: none;
+}
+main ul li {
+    list-style-image: url(../images/bullet.gif);
+}
+.post-footer {
+    background-color: #FAFAFA;
+    padding: 5px;
+    margin: 20px 10px 10px 10px;
+    border: 1px solid #f2f2f2;
+    font-size: 95%;
+}
+.post-footer .date {
+    background: url(../images/clock.gif) no-repeat left center;
+    padding-left: 20px;
+    margin: 0 10px 0 5px;
+}
+.post-footer .comments {
+    background: url(../images/comment.gif) no-repeat left center;
+    padding-left: 20px;
+    margin: 0 10px 0 5px;
+}
+.post-footer .readmore {
+    background: url(../images/page.gif) no-repeat left center;
+    padding-left: 20px;
+    margin: 0 10px 0 5px;
+}
+aside {
+    float: right;
+    width: 26.5%;
+    padding: 0;
+    margin: 0;
+    color: #68774A;
+}
+aside h3 {
+    margin-top: 10px;
+    padding: 5px 5px;
+    font: bold 15px Sans-serif;
+    color: #728D26;
+}
+aside ul.sidemenu {
+    list-style: none;
+    text-align: left;
+    margin: 7px 4px 8px 0;
+    padding: 0;
+    text-decoration: none;
+    background: url(dots.jpg) repeat-x left top;
+}
+aside ul.sidemenu li {
+    list-style: none;
+    background: url(../images/dots.jpg) repeat-x left bottom;
+    padding: 4px 0 4px 5px;
+    margin: 0 2px;
+    color: #68774A;
+}
+aside ul.sidemenu ul {
+    margin: 0 0 0 5px;
+    padding: 0;
+}
+aside ul.sidemenu ul li {
+    background: none;
+}
+footer {
+    color: #C6DDEE;
+    background: #CCC url(../images/footer.jpg) no-repeat center top;
+    clear: both;
+    width: 820px;
+    height: 65px;
+    text-align: center;
+    font-size: 92%;
+}
+footer p {
+    color: #FFF;
+    text-decoration: none;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.align-left {
+    text-align: left;
+}
+.align-right {
+    text-align: right;
+}
