@@ -1,0 +1,43 @@
+header {
+	background-image:url("images/img01.gif");
+}
+header a{
+	text-decoration: none;
+}
+#logo{
+	background-image: url("images/img02.gif");
+	background-repeat: no-repeat;
+}
+aside div{
+	background-image: url("images/img03.jpg");
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+.titulo{
+	background-image: url("images/img04.jpg");
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+article{
+	background-image: url("images/img03.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+footer{
+	background-image: url("images/img05.gif");
+	background-position: bottom;
+}
+.read-article{
+	background: url("images/img09.gif") left no-repeat;
+}
+.comments{
+	background: url("images/img08.gif") left no-repeat;
+}
+.titulo, .titulo-article {
+	padding: 5.5px;
+	background: url("images/img04.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-repeat: repeat-x;
+}

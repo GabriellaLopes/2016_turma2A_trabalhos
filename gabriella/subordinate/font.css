@@ -1,0 +1,66 @@
+header li{
+	color:#fff;
+}
+header a{
+	color: white;
+}
+header{
+	font-weight:bold;
+}
+header span{
+	font-size: 25px;
+	color: rgb(198,245,125);
+}
+main, header, footer{
+	font-family: "Trebuchet MS",serif;
+}
+footer{
+	font-size:10px;
+	text-align: center;
+	color: #fff;
+}
+footer a{
+	color: #fff;
+}
+#logo h1{
+	color: #fff;
+	font-weight: bold;
+}
+#logo h3{
+	font-size: 13px;
+	font-family: "Georgia",serif;
+	font-style: italic;
+	color: rgb(126, 191, 57);
+
+}
+.titulo{
+	color: rgb(128,126,132);
+}
+.titulo-article{
+	color: rgb(128,126,132);
+}
+.titulo-article2{
+	color: rgb(128,126,132);
+}
+aside li a{
+	color: rgb(176, 221, 121);
+}
+article a{
+	color: rgb(176, 221, 121);
+}
+.data-post{
+	color: rgb(189, 189, 191);
+}
+.rodape-article{
+	white-space: nowrap;
+}
+article{
+	text-align: justify;
+}
+.rodape-article p{
+	text-align: center;
+}
+aside li{
+	font-size: 15px;
+	padding:1.5px;
+}
