@@ -1,0 +1,122 @@
+header{
+background-image: url("img01.gif");
+background-repeat: repeat;
+height: 50px;
+
+}
+
+.container{
+	margin:0 300px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0 20px 0 20px;
+	display: table;
+}
+body, dl{
+margin:0 0 0 0 ;
+float: right;
+
+}
+
+.menu dd{
+display: inline;
+margin-right: 50px;
+}
+
+.menu dd a{
+	text-decoration: none;
+	color: white;
+
+}
+.post a{
+
+color: rgb(109, 189,11);
+
+}
+.cabechalho{
+
+}
+h1{
+	margin:0;
+	color: white;
+	position: relative;
+	top: -60px;
+	right: -80px;
+}
+
+.cabechalho p{
+	color: rgb (123,190,74);
+	position: relative;
+	top: -70px;
+	right:-60px;
+}
+.imagem{
+
+border-style: dashed;
+border-color: rgb(134,231,20);
+width: thin;
+
+}
+.pe{
+	display: table;
+	padding-top:50px;
+}
+.pe p{
+	color: rgb(153,153,153);
+	}
+.pe dl{
+	float:right;
+	margin-left: 0;
+}
+.post{
+	display: table;
+	margin-top: 30px;
+}
+.pe dl dd{
+display: inline;
+margin: 0;
+padding-left: 10px;
+}
+
+.link a{
+color: rgb(109, 189,11);
+}
+
+aside{
+margin:0;
+float:left;
+}
+
+#postagem{
+float:right;
+width: 70%;
+}
+
+.texto{
+width: 500px;
+float:right;
+margin-left:0;
+
+}
+
+aside h3{
+height: 10px;
+color: rgd(153,153,153);
+
+}
+
+footer{
+background-image: url("img05.gif");
+background-repeat: repeat;
+height: 50px;
+padding: top;
+clear: both;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
+
+footer p{
+	color: white;
+
+}

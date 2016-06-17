@@ -1,0 +1,179 @@
+.menu dd{
+  padding-left: 10px;
+
+}
+header dd{
+  display: inline;
+
+  color:white;
+}
+header dl{
+  float: right;
+}
+h3{
+  margin: 0px;
+}
+header p{
+  position: relative;
+  top: -15px;
+  padding-left: 10px;
+}
+header h1, header p, body{
+  margin: 0;
+}
+header{
+  margin-top: 20px;
+}
+.titulo{
+  float: left;
+}
+header h1{
+  padding-top: 20px;
+  color:white;
+}
+header p{
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: rgb(147,190,58);
+}
+
+header a{
+  color: white;
+}
+aside{
+
+  float: right;
+  margin-left: 0;
+}
+.centro{
+  background-color: rgb(237,253,206);
+  display: table;
+}
+h3{
+  color: rgb(114,141,38);
+}
+article{
+  background-color: white;
+  float:left;
+  width: 620px;
+}
+aside{
+  width: 540px;
+}
+table td{
+  padding: 10px;
+  color: rgb(41,145,204);
+  margin:0px;
+}
+.menu ul{
+  margin: 5px;
+}
+.menu{
+  margin-bottom: 30px;
+}
+.borda{
+  border-top: 1px rgb(21,106,171) solid;
+  border-bottom: 1px solid rgb(79,162,228);
+  margin: 0 -20px
+}
+.container{
+  border-radius: 20px;
+  padding: 0 20px 20px 20px;
+  width: 820px;
+  margin: 0 auto;
+  display: table;
+}
+dd{
+  padding: 5px;
+  margin: 0;
+}
+aside{
+  float: right;
+  width: 200px;
+}
+header, .header{
+  display: table;
+  width: 100%;
+}
+input{
+  border:none;
+  height: 20px;
+}
+main{
+  float: left;
+  margin:0px;
+}
+main, aside{
+  margin-left: 0 -15px;
+}
+.container main{
+  width: 591px;
+  margin-top: 5px;
+}
+.contato{
+  border:1px solid rgb(242,242,242);
+  width: 500px;
+  margin-left: 0;
+}
+form{
+
+width:400px;
+margin-left: 10px;
+}
+article p{
+  padding: 0 35px;
+  margin: 20px 0;
+}
+label{
+  display: table;
+}
+article li{
+  list-style-image: url("../images/square-green.png");
+  padding-bottom: 5px;
+}
+.texto2{
+  float:right;
+
+}
+#fox{
+  float:left;
+}
+footer p{
+  margin:0 auto;
+  text-align: center;
+  position:relative;
+  padding-top:10px;
+}
+footer{
+  background-image: url("footer.png");
+  clear: both;
+}
+h4{
+  color: gray;
+}
+
+.pe li{
+  display: inline;
+}
+ .postagem{
+  top: auto;
+  width: 550px;
+  margin:0 0 0 10px;
+}
+body{
+  background-color: rgb(206,206,206);
+}
+.container{
+  border-radius: 20px;
+  background-color: rgb(39,144,202);
+  padding: 20px;
+}
+tr:nth-child(2n-1){
+  background-color: rgb(242,242,242);
+}
+th{
+  background-color:  rgb(174,190,58);
+}
+foo
