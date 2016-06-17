@@ -1,0 +1,24 @@
+header {
+	background-image: url(images/img01.gif);
+}
+#logo{
+	background-image: url(images/img02.gif);
+}
+#caixa{
+	background-image: url(images/img03.jpg);
+}
+footer{
+	background-image: url(images/img05.gif);
+}
+#rodape{
+	background-image: url(images/img03.jpg);
+}
+aside a{
+	color: green;
+}
+article a{
+	color: green;
+}
+footer{
+	color: white;
+}

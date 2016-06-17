@@ -1,0 +1,30 @@
+header{
+	background-color:  rgb(38, 143, 201);
+}
+#lista1{
+	background-color:  rgb(253,253,253);
+}
+#aspas{
+	background-color:  rgb(253,253,253);
+}
+table th{
+	background-color: rgb(147,190,58);
+}
+button{
+	background-color: rgb(147,190,58);
+}
+#formulario{
+	background-color:  rgb(253,253,253);
+}
+aside{
+	background-color:  rgb(241,253,207);
+}
+footer{
+	background-color:  rgb(29, 125, 191);
+}
+table td{
+	color: rgb(38, 143, 201);
+}
+tr:nth-child(2n+1){
+	background-color: rgb(241,242,243);
+}
