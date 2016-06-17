@@ -1,0 +1,28 @@
+header{
+  background-image: url("../images/img01.gif");
+  background-repeat: repeat;
+}
+footer{
+  background-image: url("../images/img05.gif");
+  background-repeat: repeat;
+}
+.welcome h1{
+  background-image: url("../images/img04.jpg");
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+.links-welcome{
+  background-image: url("../images/img03.jpg");
+  background-repeat: repeat-x;
+  display: table;
+  height: 70px;
+}
+aside h3{
+  background-image: url("../images/img04.jpg");
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+fieldset{
+  background-image:  url("../images/img03.jpg");
+  border: none;
+}

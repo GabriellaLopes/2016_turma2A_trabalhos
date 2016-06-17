@@ -1,0 +1,119 @@
+dd{
+  display: inline;
+  margin:  0px;
+  padding-left: 10px;
+  padding-right: 25px;
+}
+dl{
+  float: right;
+  margin-right: 300px;
+  margin-top: -3px;
+}
+body{
+  margin: 0;
+
+}
+header{
+  height: 52px;
+}
+.top{
+  margin-left: 300px;
+  margin-top: -5px;
+}
+.toptexto{
+  margin-top: -95px;
+  margin-left: 75px;
+  margin-bottom: 0px;
+}
+.toptexto p{
+  margin-top: -20px;
+}
+.container{
+  position: relative;
+  left: 570px;
+  width: 570px;
+  top: 20px;
+}
+.first img, aside img{
+  float: left;
+  margin-right: 10px;
+}
+aside{
+  margin-left: 300px;
+  margin-top: -600px;
+  width: 215px;
+}
+aside ul li{
+  list-style-type: none;
+}
+footer{
+  clear: both;
+  height: 52px;
+}
+.mensagens dd{
+  display: inline;
+}
+footer p {
+  position: relative;
+  bottom: -20px;
+}
+.links-welcome{
+  margin: 0px;
+}
+.links-welcome p{
+  float: left;
+  margin-right: 150px;
+}
+.welcome h2{
+  height: 52px;
+}
+.comment p{
+  margin: 0px;
+}
+.lista-aside {
+    background-image: url("../images/img03.jpg");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size: 55px;
+    margin: 40px 0;
+}
+.lista-aside  ul{
+  padding-bottom: 40px;
+}
+.lista-aside li {
+// padding: 5px;
+}
+.welcome h2{
+//  float: left;
+}
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+footer p{
+  margin: 0 auto;
+  text-align: center;
+}
+.links-welcome ul{
+  float: right;
+  margin: 0;
+}
+.links-welcome li{
+  display: inline;
+}
+.links-welcome p{
+
+  float: left;
+  margin: 0px;
+  float: left;
+}
+.links-welcome{
+  width: 100%;
+}
+.comment{
+  display: table;float: right;margin: 0
+}
+aside{
+  display: table;
+}
