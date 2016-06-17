@@ -1,0 +1,93 @@
+header{
+background-image:url("img01.gif");
+background-repeat: repeat;
+height:50px;
+}
+header dd {
+display:inline;
+color:white;
+margin-right:50px;
+}
+header dl{
+float:right;
+
+}
+.folha h1{
+color:white;
+padding:2px;
+font-size:1.8em;
+}
+.folha p{
+bottom:122px;
+position:relative;
+margin-left:90px;
+}
+.folha h1{
+position:relative;
+bottom:100px;
+margin-left:90px;
+
+}
+.imgfolha{
+border-style:dashed;
+color:rgb(146,204,71);
+float:left;
+}
+.container{
+width:700px;
+float:right;
+margin-left:0;
+margin-top:60px;
+}
+.texto-lado-img{
+width:500px;
+padding:0 20px;
+line-height:25px;
+}
+a{
+color:rgb(146,204,71);
+}
+.links-welcome{
+display:inline;
+}
+
+aside h3{
+color:rgb(122,121,121);
+}
+.container p{
+float:left;
+
+}
+.todo-texto{
+width:1000px;
+margin:0 100px 0 200px;
+}
+h2{
+color:rgb(122,121,121);
+}
+.welcome p{
+float:left;
+}
+.links-welcome p{
+padding:50px 50px 50px 0;
+}
+footer {
+background-image:url("img05.gif");
+background-repeat:repeat;
+height: 50px;
+
+bottom:500px;
+}
+footer p{
+text-align:center;
+color: white;
+}
+footer{
+background-image: url("img05.gif");
+background-repeat:repeat;
+height:50px;
+position:relative;
+width:100%;
+bottom:0;
+clear:both;
+}

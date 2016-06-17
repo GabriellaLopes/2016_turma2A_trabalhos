@@ -1,0 +1,48 @@
+body{
+background-color:rgb(206,206,206);
+}
+.todo-site{
+background-color:rgb(38,143,201);
+border-radius:20px;
+width:70%;
+height:2000px;
+margin:0 auto;
+}
+header{
+color:white;
+}
+header dl dd{
+display:inline;
+}
+header h1{
+width: 10px;
+margin:10px 0 0 0;
+}
+.lista-superior{
+float:right;
+margin-left:100px;
+}
+.lista-inferior{
+float:right;
+}
+.container{
+background-color:white;
+width:95%;
+height:1500px;
+margin:0 20px 0 20px;
+}
+.caixa{
+border: 1px solid rgb(206,206,206);
+background-color: rgb(214,214,214);
+width:400px;
+}
+main h2{
+color:rgb(155,188,98);
+}
+main p{
+width:600px;
+}
+.texto-img-lado p{
+float:right;
+width:400px;
+}

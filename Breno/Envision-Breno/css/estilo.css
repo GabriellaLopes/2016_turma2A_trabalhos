@@ -1,0 +1,157 @@
+.container{
+	background-color: rgb(29, 125, 191);
+	width:860px;
+	margin-left: 400px;
+	box-shadow:  #000 1px 1px 3px;
+	border-radius: 20px;
+}
+main{
+	background-color: #FFF;
+	margin: 0 auto;
+	margin-left: 5px;
+	margin-right:5px;
+}
+aside{
+	background-color: rgb(241, 253, 207);
+	float: right;
+	width:250px;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 1380px;
+	color: rgb(135, 175, 55);
+	margin-right:5px;
+	
+}
+aside p{
+	margin: 0auto
+}
+aside li{
+	list-style: none;
+	border-top: 1px solid gray;
+	margin: 0 auto;
+	color: gray;
+	margin-left:0;
+	padding-top: 5px;	
+}
+aside section li:last-child{
+	border-bottom: 1px solid gray;
+}
+body{
+	background-color: rgb(206, 206, 206);
+	font-family: Verdana;
+}
+header nav ul{
+	float: right;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-right:10px;
+	padding-left: 200px;
+	height:20px;
+	width: 250px;
+	
+}
+header li{
+	list-style: none;
+	display: inline;
+}
+header nav li{
+	padding-left:5px;
+	padding-right:5px;
+	border-right: 1px solid #fff;
+}
+a{
+	text-decoration: none;
+	color: rgb(29, 125, 191);
+}
+header a{
+	color: #FFF;
+}
+header nav li:last-child{
+	border-right: 0px;
+}
+header nav{
+	height:20px;
+	width: 860px;
+}
+header ul{
+	margin: 0 auto;
+	padding-top: 10px;
+	width: 560px;
+	padding-left: 330px;
+}
+header li{
+	padding-right: 10px;
+	margin: 0 auto;
+}
+header h1, header h4{
+	margin: 0 auto;
+	color: #FFF;
+	padding-left: 20px;
+	position:relative;
+}
+header h1{
+	padding-top: 10px;
+}
+main div{
+	margin-left: 15px;
+	margin-right:40px;
+	}
+main section p img{
+	padding: 10px;
+	float: left;
+}
+main h3{
+	color: rgb(135, 175, 55);
+}
+main section footer li{
+	display: inline;
+	padding-left:15px;
+}
+main section footer ul{
+	float: right;
+	width: 510px;
+	padding-left:0 40px;
+}
+#cinza{
+	color: rgb(206, 206, 206);
+}
+body footer li{
+	list-style: none;
+	padding-left:10px;
+	display: inline;
+	color: #FFF;
+	border-left: 1px solid #FFF;
+}
+body footer li:first-child{
+	border-left: 0px;
+}
+.button{
+	margin-top:20px;
+	margin-bottom:20px;
+	background-color: rgb(135, 175, 55);
+}
+aside section ul{
+	padding-left: 0;
+}
+aside li a{
+	color: rgb(152, 149, 142);
+}
+.green{
+	background-color: rgb(135, 175, 55);
+}
+table th:first-child{
+	border-radius: 10px 0px 0px 0px;
+}
+ table th:last-child{
+	border-radius: 0px 10px 0px 0px;
+}
+.bordaC{
+	border: 1px solid rgb(235, 235, 235);
+}
+#letra{
+	font-family: courier new;
+}
+main footer{
+	font-size: smaller;
+}
