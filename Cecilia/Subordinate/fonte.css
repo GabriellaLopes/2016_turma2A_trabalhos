@@ -1,0 +1,28 @@
+.texto_slogan h3{
+  color: white;
+  font-family: fantasy;
+}
+
+header nav ul li{
+  color: white;
+}
+
+a{
+  color: rgb(153,211,151);
+}
+
+h2{
+  color: rgb(124,125,131);
+}
+
+h3{
+  color: rgb(124,125,131);
+}
+
+footer a  {
+  color: white;
+}
+
+footer p, footer{
+  color: white;
+}
