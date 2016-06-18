@@ -1,0 +1,25 @@
+#logo{
+	color: white;
+}
+#ul1{
+	color: white;
+}
+aside h3{
+	color: green;
+}
+body{
+  font-family: "Verdana", serif;
+}
+header h1, header p, article h3{
+  font-family:"Trebuchet MS", serif;
+}
+header{
+  color: #fff;
+}
+header h1{
+  font-size: 60px;
+  font-weight: bolder;
+}
+header p{
+  font-size: 20px;
+}
